@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "CorentissDelirium",
+  "repo": "container-sa9tnrc",
+  "name": "CorentissDelirium",
+  "email": "p.csaba.16@gmail.com",
+}
